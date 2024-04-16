@@ -296,7 +296,7 @@ https://ss1.example.digital/BSeriesSci-fi/video.m3u8
 #EXTINF: -1 tvg-name="BEIN SERIES VICE" tvg-logo="https://i.imgur.com/hgWKp9a.png" group-title="SINEMA", BEIN SERIES VICE
 https://ss1.example.digital/BSeriesVice/video.m3u8
 #EXTINF: -1 tvg-name="SINEMA TV" tvg-logo="https://i.imgur.com/qstBXDP.png" group-title="SINEMA", SINEMA TV
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/942
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/942
 #EXTINF: -1 tvg-name="SINEMA 1001" tvg-logo="https://i.imgur.com/OOMEELj.png" group-title="SINEMA", SINEMA 1001
 https://ss1.example.digital/Sinema1001/video.m3u8
 #EXTINF: -1 tvg-name="SINEMA 1002" tvg-logo="https://i.imgur.com/BEFyizf.png" group-title="SINEMA", SINEMA 1002
@@ -310,7 +310,7 @@ https://ss1.example.digital/SinemaAksiyon/video.m3u8
 #EXTINF: -1 tvg-name="SINEMA KOMEDI" tvg-logo="https://i.imgur.com/U4C7JId.png" group-title="SINEMA", SINEMA KOMEDI
 https://ss1.example.digital/SinemaKomedi/video.m3u8
 #EXTINF: -1 tvg-name="SINEMA YERLI" tvg-logo="https://i.imgur.com/9nJvnMl.png" group-title="SINEMA", SINEMA YERLI
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/943
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/943
 #EXTINF: -1 tvg-name="DIZI SMART MAX" tvg-logo="https://i.imgur.com/mb3jM28.png" group-title="SINEMA", DIZI SMART MAX
 https://ss1.example.digital/DiziSmartMAX/video.m3u8
 #EXTINF: -1 tvg-name="DIZI SMART PREMIUM" tvg-logo="https://i.imgur.com/geku2QD.png" group-title="SINEMA", DIZI SMART PREMIUM
@@ -358,7 +358,7 @@ https://ythls-v2.onrender.com/video/hfx8H7YrmTw.m3u8
 #EXTINF: -1 tvg-name="Zeki Alasya Metin Akpınar" tvg-logo="https://i.ytimg.com/vi/EYg1n041Nug/sddefault.jpg" group-title="7/24", Zeki Alasya Metin Akpınar
 https://ythls-v2.onrender.com/video/EYg1n041Nug.m3u8
 #EXTINF: -1 tvg-name="MalkoçOğlu" tvg-logo="https://i.ytimg.com/vi/hmgM0Yzfj_4/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR8fsvDbZbnzb9A5xzsD_M6pJrDw" group-title="7/24", MalkoçOğlu
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1420
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1420
 #EXTINF: -1 tvg-name="Yılmaz Güney" tvg-logo="https://i.ytimg.com/vi/C_lXjW7BFco/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjmLP6lrY3BfCc-RflKU0Rv-Abig" group-title="7/24", Yılmaz Güney
 https://ythls.armelin.one/video/C_lXjW7BFco.m3u8
 #EXTINF: -1 tvg-name="Şener Şen" tvg-logo="https://i.ytimg.com/vi/ytMMecbnDuA/sddefault.jpg" group-title="7/24", Şener Şen
@@ -528,82 +528,82 @@ http://palatv34.ozelip.com:22372/aktuel/aktuel/playlist.m3u8
 #EXTINF: -1 tvg-name="Karadeniz Akustik" tvg-logo="https://yt3.ggpht.com/mfb5GznMGJBJrM-LBOdJWEjAqFE5YlNErgWh1472AaJ7zbfsPJ4uXd8DOGgg_KstUPtG057eZaQ=s300-c-k-c0x00ffffff-no-rj" group-title="MUZIK", Karadeniz Akustik
 http://cors.tundracast.com:2000/http://new.cache-stream.workers.dev/stream/UCFwOubbFrIGY1G6ik2tT2QA/live.m3u8
 #EXTINF: -1 tvg-name="Akilli Tavsan Momo FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/a7c68ac0ea9d7202faa1d46ab22b55e3.png" group-title="COCUK", Akilli Tavsan Momo FHD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1043
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1043
 #EXTINF: -1 tvg-name="Baby TV HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="COCUK", Baby TV HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1044
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1044
 #EXTINF: -1 tvg-name="Barbie TV HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/4aea5c9c96f0b237a7af47806ba13d88.png" group-title="COCUK", Barbie TV HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1045
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1045
 #EXTINF: -1 tvg-name="Boomerang FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/81a27b50d0e40fe5101f15bda70e475e.png" group-title="COCUK", Boomerang FHD
 https://boomerang.blutv.com/blutv_boomerang/live.m3u8
 #EXTINF: -1 tvg-name="Cartoon Network HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="COCUK", Cartoon Network HD
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF: -1 tvg-name="CBeebies HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/d4cf2f16302ff3c40178b1940f59bf8a.png" group-title="COCUK", CBeebies HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1048
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1048
 #EXTINF: -1 tvg-name="Da Vinci Learning HD (A)" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/e41840efb76abde867f0b2e3b8c55bd4.png" group-title="COCUK", Da Vinci Learning HD (A)
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1049
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1049
 #EXTINF: -1 tvg-name="Da Vinci Learning HD (B)" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/e41840efb76abde867f0b2e3b8c55bd4.png" group-title="COCUK", Da Vinci Learning HD (B)
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1050
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1050
 #EXTINF: -1 tvg-name="Disney Channel SD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/98da911a6a7e9b677b03b2453b2befb1.png" group-title="COCUK", Disney Channel SD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1051
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1051
 #EXTINF: -1 tvg-name="Disney Junior FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/ff2adcdae94513260190f14997f75307.png" group-title="COCUK", Disney Junior FHD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1052
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1052
 #EXTINF: -1 tvg-name="Disney Junior HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/ff2adcdae94513260190f14997f75307.png" group-title="COCUK", Disney Junior HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1053
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1053
 #EXTINF: -1 tvg-name="Dream Animasyon FHD OFFLINE" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/0cd119831354bed3dfa0c1be6e4d188e.png" group-title="COCUK", Dream Animasyon FHD OFFLINE
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1054
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1054
 #EXTINF: -1 tvg-name="Keloglan TV HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/aec03e47a277d2332b421fc5227ab5f3.png" group-title="COCUK", Keloglan TV HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1055
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1055
 #EXTINF: -1 tvg-name="Kukuli TV HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/da62d0d4b8b37cb9f4d9803599937e47.png" group-title="COCUK", Kukuli TV HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1056
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1056
 #EXTINF: -1 tvg-name="Limon Ile Zeytin TV HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/4ece7242cd573eb9f145e5a6938b71a1.png" group-title="COCUK", Limon Ile Zeytin TV HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1057
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1057
 #EXTINF: -1 tvg-name="Max Animasyon 1 FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png" group-title="COCUK", Max Animasyon 1 FHD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1058
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1058
 #EXTINF: -1 tvg-name="Max Animasyon 2 FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png" group-title="COCUK", Max Animasyon 2 FHD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1059
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1059
 #EXTINF: -1 tvg-name="Maşa ile Koca Ayi TV HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/dcff39e7c1453963db6654c1d53365a6.png" group-title="COCUK", Maşa ile Koca Ayi TV HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1060
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1060
 #EXTINF: -1 tvg-name="Minika Go HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/d977c195dbd4db89dc3ab48d1f69ccdb.png" group-title="COCUK", Minika Go HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1061
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1061
 #EXTINF: -1 tvg-name="Minika Çocuk SD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/c5378f8b9b4994a63c8a0f6f737687f4.png" group-title="COCUK", Minika Çocuk SD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1062
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1062
 #EXTINF: -1 tvg-name="Netserver Animasyon HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/1f0a304cdfdbef41ac9f70746858310c.png" group-title="COCUK", Netserver Animasyon HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1063
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1063
 #EXTINF: -1 tvg-name="Netserver Animasyon 2 HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/1f0a304cdfdbef41ac9f70746858310c.png" group-title="COCUK", Netserver Animasyon 2 HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1064
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1064
 #EXTINF: -1 tvg-name="Netserver Animasyon 3 HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/1f0a304cdfdbef41ac9f70746858310c.png" group-title="COCUK", Netserver Animasyon 3 HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1065
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1065
 #EXTINF: -1 tvg-name="Netserver Animasyon 4 HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/1f0a304cdfdbef41ac9f70746858310c.png" group-title="COCUK", Netserver Animasyon 4 HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1066
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1066
 #EXTINF: -1 tvg-name="Netserver Animasyon 5 HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/1f0a304cdfdbef41ac9f70746858310c.png" group-title="COCUK", Netserver Animasyon 5 HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1067
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1067
 #EXTINF: -1 tvg-name="Netserver Animasyon 6 HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/1f0a304cdfdbef41ac9f70746858310c.png" group-title="COCUK", Netserver Animasyon 6 HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1068
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1068
 #EXTINF: -1 tvg-name="Nick Jr HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="COCUK", Nick Jr HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1069
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1069
 #EXTINF: -1 tvg-name="Nickelodeon HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="COCUK", Nickelodeon HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1070
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1070
 #EXTINF: -1 tvg-name="Nicktoons HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/7c5a9a9b092e065b4df87d3943593685.png" group-title="COCUK", Nicktoons HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1071
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1071
 #EXTINF: -1 tvg-name="Niloya TV FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/e5ff30ea61ce43e686f7b49ae16ac697.png" group-title="COCUK", Niloya TV FHD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1072
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1072
 #EXTINF: -1 tvg-name="Oddbods FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/6a36b19841840e3dab311d1872653a92.png" group-title="COCUK", Oddbods FHD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1073
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1073
 #EXTINF: -1 tvg-name="Pepee TV HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/8ea62096e0050cc973a9f3155601b445.png" group-title="COCUK", Pepee TV HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1074
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1074
 #EXTINF: -1 tvg-name="Pijamaskeliler HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/a0c93d98e6e1cdac63e4947741430c5c.png" group-title="COCUK", Pijamaskeliler HD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1075
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1075
 #EXTINF: -1 tvg-name="Smart Çocuk FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/c8eee60a28df9f26b8fd57fc47b034b8.png" group-title="COCUK", Smart Çocuk FHD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1076
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1076
 #EXTINF: -1 tvg-name="Sünger Bob FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/b37a7e9fb6eb84af57912e4dc55e088e.png" group-title="COCUK", Sünger Bob FHD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1077
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1077
 #EXTINF: -1 tvg-name="Tom ve Jerry SD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/f4e3c658251f8ca3542a5887c8f548b9.png" group-title="COCUK", Tom ve Jerry SD
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1078
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1078
 #EXTINF: -1 tvg-name="TRT Çocuk FHD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/6596015c473059ca8fec3313e68c8478.png" group-title="COCUK", TRT Çocuk FHD
 https://trtcocukdvr.blutv.com/blutv_trtcocuk_dvr/live.m3u8
 #EXTINF: -1 tvg-name="TRT Çocuk HD" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/6596015c473059ca8fec3313e68c8478.png" group-title="COCUK", TRT Çocuk HD
 https://trtcocukdvr.blutv.com/blutv_trtcocuk_dvr/live.m3u8
 #EXTINF: -1 tvg-name="ULTRA Animasyon FHD OFFLINE" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/2fd294a63469323fc3ff905133ef9c7c.png" group-title="COCUK", ULTRA Animasyon FHD OFFLINE
-http://databilgin4.online:8080/GFwXXKjJt5/D4Yd2YPawP/1081
+http://example.digital:8080/GFwXXKjJt5/D4Yd2YPawP/1081
 #EXTINF: -1 tvg-name="TRT DİYANET ÇOCUK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/64669b4f866ac317104ebeac" group-title="COCUK", TRT DİYANET ÇOCUK
 https://trtcocukdiyanet.blutv.com/blutv_trtcocukdiyanet/live.m3u8
