@@ -166,9 +166,9 @@ https://ss1.example.digital/Exxen-1-Bilgin-TV-Yedek/video.m3u8
 #EXTINF: -1 tvg-name="EXXEN SPORTS 1 A" tvg-logo="https://ss1.example.digital/logolar/exxen1.png" group-title="SPOR", EXXEN SPORTS 1 B
 https://ss2.example.digital/Exxen-1-Bilgin-TV/video.m3u8
 #EXTINF: -1 tvg-name="EXXEN SPORTS 2 A" tvg-logo="https://ss1.example.digital/logolar/exxen1.png" group-title="SPOR", EXXEN SPORTS 2 A
-https://ss2.example.digital/Exxen-2-Bilgin-TV/video.m3u8
-#EXTINF: -1 tvg-name="EXXEN SPORTS 2 B" tvg-logo="https://ss1.example.digital/logolar/exxen1.png" group-title="SPOR", EXXEN SPORTS 2 B
 https://ss1.example.digital/Exxen-2-Bilgin-TV-Yedek/video.m3u8
+#EXTINF: -1 tvg-name="EXXEN SPORTS 2 B" tvg-logo="https://ss1.example.digital/logolar/exxen1.png" group-title="SPOR", EXXEN SPORTS 2 B
+https://ss2.example.digital/Exxen-2-Bilgin-TV/video.m3u8
 #EXTINF: -1 tvg-name="EXXEN SPORTS 3" tvg-logo="https://ss1.example.digital/logolar/exxen1.png" group-title="SPOR", EXXEN SPORTS 3
 https://ss2.example.digital/Exxen-3-Bilgin-TV/video.m3u8
 #EXTINF: -1 tvg-name="EXXEN SPORTS 4" tvg-logo="https://ss1.example.digital/logolar/exxen1.png" group-title="SPOR", EXXEN SPORTS 4
