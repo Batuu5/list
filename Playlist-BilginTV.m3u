@@ -349,8 +349,6 @@ https://ss1.example.digital/EnoV10/video.m3u8
 https://ss1.example.digital/EnoAksiyon1/video.m3u8
 #EXTINF: -1 tvg-name="ENO AKSIYON 2" tvg-logo="https://ss1.example.digital/logolar/bein/eno.png" group-title="SINEMA", ENO AKSIYON 2
 https://ss1.example.digital/EnoAksiyon2/video.m3u8
-#EXTINF: -1 tvg-name="ENO ANIMASYON" tvg-logo="https://ss1.example.digital/logolar/bein/eno.png" group-title="SINEMA", ENO ANIMASYON
-https://ss1.example.digital/EnoAnimasyon/video.m3u8
 #EXTINF: -1 tvg-name="Kemal Sunal 1" tvg-logo="https://i.ytimg.com/vi/hfx8H7YrmTw/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_CAKbKLwTFHt_Idu8yjh4WnrrBA" group-title="7/24", Kemal Sunal 1
 https://ythls-v2.onrender.com/video/YpszCBqX0S8.m3u8
 #EXTINF: -1 tvg-name="Kemal Sunal 2" tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrduICAh8nlP_W7RRd-FCHdK2_Bw" group-title="7/24", Kemal Sunal 2
