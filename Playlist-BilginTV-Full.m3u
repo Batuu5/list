@@ -132,7 +132,7 @@ https://krtdvr.blutv.com/blutv_krt_live_dvr/live.m3u8
 #EXTINF: -1 tvg-name="BEİN SPORTS HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/640px-Bein_sport_logo.svg.png" group-title="SPOR", BEİN SPORTS HABER
 https://ythls-v2.onrender.com/video/OypUpUTYAHI.m3u8
 #EXTINF: -1 tvg-name="BEİN SPORTS 1 A" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="SPOR", BEİN SPORTS 1 A
-https://api.databilgin6.online/play/2239707133/index.m3u8?token=test&host=bilgintv&type=live&server=netherlands1&owner=batuhanryz&bant=10gbps
+https://api.databilgin6.online/play/822770501/index.m3u8?token=test&host=bilgintv&type=live&server=netherlands1&owner=batuhanryz&bant=10gbps
 #EXTINF: -1 tvg-name="BEİN SPORTS 1 B" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="SPOR", BEİN SPORTS 1 B
 https://api.databilgin6.online/play/3118029335/index.m3u8?token=test&host=bilgintv&type=live&server=netherlands1&owner=batuhanryz&bant=10gbps
 #EXTINF: -1 tvg-name="BEİN SPORTS 1 C" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="SPOR", BEİN SPORTS 1 C
