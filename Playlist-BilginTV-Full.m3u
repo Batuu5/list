@@ -132,9 +132,9 @@ https://krtdvr.blutv.com/blutv_krt_live_dvr/live.m3u8
 #EXTINF: -1 tvg-name="BEİN SPORTS HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/640px-Bein_sport_logo.svg.png" group-title="SPOR", BEİN SPORTS HABER
 https://ythls-v2.onrender.com/video/OypUpUTYAHI.m3u8
 #EXTINF: -1 tvg-name="BEİN SPORTS 1 A" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="SPOR", BEİN SPORTS 1 A
-https://ss2.databilgin6.online/b1/video.m3u8?token=313131311313311133111332213131331313131
-#EXTINF: -1 tvg-name="BEİN SPORTS 1 B" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="SPOR", BEİN SPORTS 1 B
 https://ss1.databilgin6.online/b1yedek/video.m3u8?token=313131311313311133111332213131331313131
+#EXTINF: -1 tvg-name="BEİN SPORTS 1 B" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="SPOR", BEİN SPORTS 1 B
+https://ss2.databilgin6.online/b1/video.m3u8?token=313131311313311133111332213131331313131
 #EXTINF: -1 tvg-name="BEİN SPORTS 2" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="SPOR", BEİN SPORTS 2
 https://ss2.databilgin6.online/b2/video.m3u8?token=UoYSR0VZMk17l4hrebrG6PZIJ6J0yKyZ3jy8djlIsMKixNpjL4t2VoZwMwuBU6HIL980KSNzXF5I5ca0XevTXPn2N9FEPm3JCOuUEF73bXcm39BfkqO1oU6y6iAHVyrQGFYuaHDY0FiFnqUQWlwC2jw5HPEL3UheZZ33hvA9I6ksjZSvanRNHullhIpwDBe9C8S9zQ5G
 #EXTINF: -1 tvg-name="BEİN SPORTS 3" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="SPOR", BEİN SPORTS 3
