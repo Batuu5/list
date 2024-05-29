@@ -34,7 +34,7 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF: -1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/androiddunyasi-6f363.appspot.com/o/logo_stor%2F1676836914065.jpg?alt=media&token=0c8a9f06-9ee3-4e10-bf17-54269a74f09c" group-title="ULUSAL", EURO STAR
 http://trn10.tulix.tv/gt-eurostar/index.m3u8?a=1&b=1&import=app&sign=off&protection=off?token=c432149411a905154ebebc313dccb439
 #EXTINF: -1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/androiddunyasi-6f363.appspot.com/o/logo_stor%2F1676837061172.jpg?alt=media&token=06e22d32-9c78-4114-b1a4-4e4df7af1e61" group-title="ULUSAL", SHOW TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/3167289612/index.m3u8?a=1&b=1&import=app&sign=off&protection=off
 #EXTINF: -1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/5dcd4eec866ac302bcb1c34b" group-title="ULUSAL", SHOW TV -DVR
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 #EXTINF: -1 tvg-logo="https://www.showturk.com.tr/images/core/showturk-v-1.svg?v=12" group-title="ULUSAL", SHOW TÜRK
